@@ -1,5 +1,5 @@
-class StaticController < ApplicationController 
+class StaticController < ApplicationController
 def about
-end 
+end
 
 end 
